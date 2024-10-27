@@ -20,10 +20,10 @@ Follow these steps to set up a Next.js app with SSR:
    ```bash
    npx create-next-app
 
-1. **Build the project**:
+2. **Build the project**:
    ```bash
    npm run build
    
-1. **Start the Next.js server**:
+3. **Start the Next.js server**:
    ```bash
-   npx create-next-app   
+   npm run start 
